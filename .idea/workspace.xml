@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3646048-c3d1-471e-9cea-4f7a32b08731" name="Changes" comment="Object and Class Example: main within the class">
+      <change afterPath="$PROJECT_DIR$/src/TestStudent3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestStudent1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestStudent1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestStudent2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestStudent2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +40,11 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\RJ\IdeaProjects\Object Oriented Programming\src" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Unnamed" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
@@ -124,7 +127,28 @@
       <option name="project" value="LOCAL" />
       <updated>1663863637911</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Object and Class Example: main within the class">
+      <created>1663864497316</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663864497316</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Object and Class Example: main within the class">
+      <created>1663864732795</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663864732795</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Object and Class Example: main within the class">
+      <created>1663865151529</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663865151529</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

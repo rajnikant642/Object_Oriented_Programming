@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3646048-c3d1-471e-9cea-4f7a32b08731" name="Changes" comment="Object and Class Example: main within the class">
-      <change afterPath="$PROJECT_DIR$/src/TestStudent4.java" afterDir="false" />
+    <list default="true" id="e3646048-c3d1-471e-9cea-4f7a32b08731" name="Changes" comment="Object and Class Example: Initialization through method">
+      <change afterPath="$PROJECT_DIR$/src/TestEmployee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663890935354</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Object and Class Example: Initialization through method">
+      <created>1663891444378</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663891444378</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +177,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Object and Class Example: main within the class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Object and Class Example: main within the class" />
+    <MESSAGE value="Object and Class Example: Initialization through method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Object and Class Example: Initialization through method" />
   </component>
 </project>

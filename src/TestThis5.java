@@ -1,4 +1,4 @@
-//Calling default constructor from parameterized constructor
+//Calling parameterized constructor from default constructor
 class Aa{
     Aa(){
         System.out.println("hello a");

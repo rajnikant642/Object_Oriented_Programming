@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3646048-c3d1-471e-9cea-4f7a32b08731" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student11.java" afterDir="false" />
+    <list default="true" id="e3646048-c3d1-471e-9cea-4f7a32b08731" name="Changes" comment="//Example of copying values without constructor">
+      <change afterPath="$PROJECT_DIR$/src/TestStaticVariable1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -223,7 +222,56 @@
       <option name="project" value="LOCAL" />
       <updated>1664214047392</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1664215315174</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1664215315174</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1664215818321</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1664215818321</updated>
+    </task>
+    <task id="LOCAL-00016" summary="//Example of default constructor">
+      <created>1664217559732</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1664217559732</updated>
+    </task>
+    <task id="LOCAL-00017" summary="//Example of Constructor Overloading">
+      <created>1664219234217</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1664219234217</updated>
+    </task>
+    <task id="LOCAL-00018" summary="//Example of Parameterized constructor">
+      <created>1664219265884</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1664219265884</updated>
+    </task>
+    <task id="LOCAL-00019" summary="//Java program to initialize the values from one object to another object.">
+      <created>1664220206284</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1664220206284</updated>
+    </task>
+    <task id="LOCAL-00020" summary="//Example of copying values without constructor">
+      <created>1664220488661</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1664220488661</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,7 +293,12 @@
     <MESSAGE value="User defined method example" />
     <MESSAGE value="Example of static method" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="//Example of default constructor" />
+    <MESSAGE value="//Example of Constructor Overloading" />
+    <MESSAGE value="//Example of Parameterized constructor" />
+    <MESSAGE value="//Java program to initialize the values from one object to another object." />
+    <MESSAGE value="//Example of copying values without constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="//Example of copying values without constructor" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

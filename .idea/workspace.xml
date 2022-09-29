@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3646048-c3d1-471e-9cea-4f7a32b08731" name="Changes" comment="Java program to demonstrate the use of static variable">
-      <change afterPath="$PROJECT_DIR$/src/TestStaticMethod.java" afterDir="false" />
+    <list default="true" id="e3646048-c3d1-471e-9cea-4f7a32b08731" name="Changes" comment="Single Inheritance Example">
+      <change afterPath="$PROJECT_DIR$/src/TestInheritance2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestInheritance3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -284,7 +286,70 @@
       <option name="project" value="LOCAL" />
       <updated>1664381940288</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Java Program to demonstrate the use of a static method">
+      <created>1664383290003</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1664383290003</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Program where this keyword is required">
+      <created>1664385607686</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1664385607686</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Java Program where this keyword is used to invoke current class method">
+      <created>1664386262260</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1664386262260</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Calling default constructor from parameterized constructor">
+      <created>1664386746261</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1664386746261</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Calling default constructor from parameterized constructor">
+      <created>1664386992482</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1664386992482</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Calling parameterized constructor from default constructor">
+      <created>1664387029637</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1664387029637</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Real usage of this() constructor call">
+      <created>1664388084980</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1664388084980</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Java Inheritance Example">
+      <created>1664391072018</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1664391072018</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Single Inheritance Example">
+      <created>1664472971895</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1664472971895</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -313,7 +378,15 @@
     <MESSAGE value="//Example of copying values without constructor" />
     <MESSAGE value="//Java program to demonstrate the use of static variable" />
     <MESSAGE value="Java program to demonstrate the use of static variable" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java program to demonstrate the use of static variable" />
+    <MESSAGE value="Java Program to demonstrate the use of a static method" />
+    <MESSAGE value="Program where this keyword is required" />
+    <MESSAGE value="Java Program where this keyword is used to invoke current class method" />
+    <MESSAGE value="Calling default constructor from parameterized constructor" />
+    <MESSAGE value="Calling parameterized constructor from default constructor" />
+    <MESSAGE value="Real usage of this() constructor call" />
+    <MESSAGE value="Java Inheritance Example" />
+    <MESSAGE value="Single Inheritance Example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Single Inheritance Example" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
